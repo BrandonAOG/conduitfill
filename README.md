@@ -210,7 +210,7 @@ Modify CSS custom properties in `:root`:
 
 ## Support
 
-For bug reports or feature requests, contact: [Your contact info]
+For bug reports or feature requests, fill out a Pull request....
 
 ## Disclaimer
 
