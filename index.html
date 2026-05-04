@@ -1206,11 +1206,11 @@ function removeWire(id) {
   updateConduitInfo();
 }
 
-// Add 3 default wires on load
+// Add 1 default wire on load
 window.addEventListener('load', () => {
-  addWire(); addWire(); addWire();
-  // Set defaults: 2 hots + 1 neutral, 12 AWG THHN
+  addWire();
 });
+
 
 // ============================================================
 // CALCULATE
